@@ -14,6 +14,10 @@ public class gitstudy {
 
     }
 
+public void newww()
+{
+    System.out.println("Sample testing ");
+}
     public void secondlearn()
     {
 
