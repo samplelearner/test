@@ -14,6 +14,11 @@ public class gitstudy {
 
     }
 
+    public void sma()
+    {System.out.println("temp");
+
+    }
+
     public  void newadd()
     {
         System.out.println("today is thursday");
@@ -26,7 +31,7 @@ public class gitstudy {
     }
     public void dis()
     {System.out.println("again test phase");}
-    
+
     public void secondlearn()
     {
 
