@@ -14,6 +14,11 @@ public class gitstudy {
 
     }
 
+    public  void newadd()
+    {
+        System.out.println("today is thursday");
+
+    }
     public void secondlearn()
     {
 
