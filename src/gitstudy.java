@@ -19,6 +19,11 @@ public class gitstudy {
         System.out.println("today is thursday");
 
     }
+
+    public sadd()
+    {
+        System.out.println("testing");
+    }
     public void secondlearn()
     {
 
