@@ -2,7 +2,9 @@
  * Created by sreehari.v on 10/06/15.
  */
 public class gitstudy {
-
+//test
+    //new sss
+    //new sss
     public void learn()
     {
         System.out.println("learning git commits");
@@ -11,6 +13,13 @@ public class gitstudy {
         int b=20;
         int c= a+b;
         System.out.println(c);
+
+    }
+
+    public void newadd()
+    {
+
+        System.out.println("Today is thursday");
 
     }
 
