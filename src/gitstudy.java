@@ -13,32 +13,11 @@ public class gitstudy {
         System.out.println(c);
 
     }
-
-    public void sma()
-    {System.out.println("temp");
-
-    }
-
-    public  void newadd()
+    
+    public void smpuser()
     {
-        System.out.println("today is thursday");
-
-    }
-
-    public void sadd()
-    {
-        System.out.println("testing");
-    }
-    public void dis()
-    {System.out.println("again test phase");}
-
-    public void secondlearn()
-    {
-
-        learn();
-        System.out.println("check check");
-        System.out.println("forwarding to git");
-
+        System.out.println("Usage confronted");
+        
     }
 
 }
