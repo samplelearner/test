@@ -20,10 +20,13 @@ public class gitstudy {
 
     }
 
-    public sadd()
+    public void sadd()
     {
         System.out.println("testing");
     }
+    public void dis()
+    {System.out.println("again test phase");}
+    
     public void secondlearn()
     {
 
